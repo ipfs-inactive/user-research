@@ -14,8 +14,8 @@ The IPFS ecosystem of open-source projects has user research and other useful do
 
 In 2018, IPFS is gathering information and user needs in two areas:
 
-1. What is the simple but complete set of tools, templates, API features and documentation that allows web developers to build distributed applications on top of IPFS and libp2p? ([Original work plan](https://docs.google.com/document/d/1ea5ZMT5Ld7LrjgCB6Uc3p91OoTIAF3wZbpfRFciO0vg/edit?usp=sharing)🔒)
-1. How might one store and transfer terabytes or petabytes of data using IPFS? ([Original work plan](https://docs.google.com/document/d/1rNYIg6sQoRYDVcvQ8oPbJ4ov6Dbque5Hcvn44q7qk4A/edit?usp=sharing)🔒)
+1. What is the simple but complete set of tools, templates, API features and documentation that allows web developers to build distributed applications on top of IPFS and libp2p?
+1. How might one store and transfer terabytes or petabytes of data using IPFS?
 
 Research in each area lives in its own directory in this repo, respectively:
 1. https://github.com/ipfs/user-research/tree/master/distributed-kit
