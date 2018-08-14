@@ -1,6 +1,6 @@
 # IPFS user research | Complete distributed toolkit
 
-**What is the simple but complete set of tools, templates, API features and documentation that allows web developers to build distributed applications on top of IPFS and libp2p?**
+🎯**What is the simple but complete set of tools, templates, API features and documentation that allows web developers to build distributed applications on top of IPFS and libp2p?**
 
 - [Background](#background)
 - [Status](#status)
