@@ -2,6 +2,12 @@
 
 **What is the simple but complete set of tools, templates, API features and documentation that allows web developers to build distributed applications on top of IPFS and libp2p?**
 
+- [Background](#background)
+- [Status](#status)
+- [Next steps](#next-steps)
+
+## Background
+
 ([Original work plan](https://docs.google.com/document/d/1ea5ZMT5Ld7LrjgCB6Uc3p91OoTIAF3wZbpfRFciO0vg/edit?usp=sharing)🔒)
 
 This area of focus was originally part of a project to document user journeys around key IPFS use cases.
@@ -39,5 +45,5 @@ That research revealed that:
 Our IPFS onboarding and documentation research provided enough insight into the current user journey for people who would like to build distributed apps on IPFS and libp2p. We should not conduct more research. Instead, we should implement the strategy tracked in our [ipfs/docs repo](https://github.com/ipfs/docs) and [issues](https://github.com/ipfs/docs/issues).
 
 ### Related links
-[ipfs/docs repo](https://github.com/ipfs/docs)
-[IPFS Documentation Research Review](https://gateway.ipfs.io/ipns/ipfs-docs-research.robbrackett.com/html/). This has links to a review of all IPFS GitHub repos; an analysis of https://discuss.ipfs.io topics; notes from interviews; etc.
+* [ipfs/docs repo](https://github.com/ipfs/docs)
+* [IPFS Documentation Research Review](https://gateway.ipfs.io/ipns/ipfs-docs-research.robbrackett.com/html/). This has links to a review of all IPFS GitHub repos; an analysis of https://discuss.ipfs.io topics; notes from interviews; etc.
