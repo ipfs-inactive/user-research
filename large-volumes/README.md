@@ -1,6 +1,6 @@
 # IPFS user research | Large volumes
 
-**How might one store and transfer terabytes or petabytes of data using IPFS?** 
+🎯**How might one store and transfer terabytes or petabytes of data using IPFS?** 
 
 - [Background](#background)
 - [Work so far](#work-so-far)
