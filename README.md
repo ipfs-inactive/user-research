@@ -4,8 +4,8 @@ The IPFS ecosystem of open-source projects has user research and other useful do
 
 ## Repo roadmap
 
-1. We've got a README! **<-- U R HERE**
-1. Create skeleton repo wiki to hold roadmaps, etc.
+1. ~~We've got a README! ~~
+1. Create skeleton repo wiki to hold roadmaps, etc. **<-- U R HERE**
 1. Migrate existing user research (or links to research) here so this can serve as index for that work
 1. Add current understanding of problem statements and user research roadmaps to wiki
 1. Issues reflect ongoing and planned work
