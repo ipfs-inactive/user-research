@@ -1,5 +1,8 @@
 # Research for “Large Volumes” Use Cases (50+ TB of Data)
 
+
+(Internal folder with full interview recordings and other documentation is [here](https://drive.google.com/drive/u/0/folders/1qZdyKmUu3VlerzF94k3JoAYUtFCVPAkl)🔒)
+
 + [What we did](#what-we-did)
 + [Methodology](#methodology)
 + [Who we talked to](#who-we-talked-to)
