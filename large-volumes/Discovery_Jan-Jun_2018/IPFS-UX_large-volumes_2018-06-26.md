@@ -33,7 +33,7 @@ Resource: [Why You Only Need to Test with 5 Users](https://www.nngroup.com/artic
   + Research Network / Initiative
 
 ## Findings summary
-See all the details here: [Discovery_Jan-Jun_2018/IPFS_Large_Volumes_UX_Findings_FINAL.pdf](#)
+See all the details here: [Discovery_Jan-Jun_2018/IPFS_Large_Volumes_UX_Findings_FINAL.pdf](https://github.com/ipfs/user-research/blob/master/large-volumes/Discovery_Jan-Jun_2018/IPFS_Large_Volumes_UX_Findings_FINAL.pdf)
 
 ### Theme: Metrics Matter
 + Metrics around data consumption are key to success in ‘Large Volumes’ use cases. People must prove value to sustain their work.
