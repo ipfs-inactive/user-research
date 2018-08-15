@@ -25,7 +25,7 @@ Video or audiorecorded (with permission), transcribed, and analyzed
 ## Who we talked to
 
 5 people who manage large volumes of data (50+ TB)
-Resource: [Why You Only Need to Test with 5 Users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)
+
 - Professional Data Manager
   + Govenment Org
 - Software Developers
