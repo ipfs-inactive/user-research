@@ -4,6 +4,7 @@
 
 - [Background](#background)
 - [Work so far](#work-so-far)
+- [Next steps](#next-steps)
 
 ## Background
 
@@ -29,3 +30,11 @@ _Note: All of these user journeys should focus on storage for Access and Preserv
 - ESIP conference report
 - Proto-user journey from jonnycrunch at Developers Meetings in Berlin
 - Michelle B's work with Data Together
+
+## Next steps
+
+**TODO** These will be defined after the 'work so far' section is done
+
+- Link to issue on jonnycrunch user journey
+- Cluster testbed
+- Other user journeys?
