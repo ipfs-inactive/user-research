@@ -37,4 +37,4 @@ _Note: All of these user journeys should focus on storage for Access and Preserv
 
 - Link to issue on jonnycrunch user journey
 - Cluster testbed
-- Other user journeys?
+- Other user journeys? (see https://github.com/ipfs/pm/issues/515)
