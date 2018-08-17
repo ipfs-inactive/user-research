@@ -24,7 +24,7 @@ Research in each area lives in its own directory in this repo, respectively:
 
 ## Related links
 
-🔒[Google drive](https://drive.google.com/drive/folders/0B7snS36pEV4HcDZVUHlxeUFhcDQ) for not-publicly-accessible documents or unfinished, in-process drafts that are easier to store as Docs/Sheets/etc.
+🔒[Google drive](https://drive.google.com/drive/folders/1KbLl9TOV94Ud_jUP23e4ned1dtrLSsvp) for not-publicly-accessible documents or unfinished, in-process drafts that are easier to store as Docs/Sheets/etc.
 
 ## Code of Conduct
 
