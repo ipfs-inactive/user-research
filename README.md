@@ -22,6 +22,10 @@ Research in each area lives in its own directory in this repo, respectively:
 1. https://github.com/ipfs/user-research/tree/master/distributed-kit
 1. https://github.com/ipfs/user-research/tree/master/large-volumes
 
+## Related links
+
+🔒[Google drive](https://drive.google.com/drive/folders/0B7snS36pEV4HcDZVUHlxeUFhcDQ) for not-publicly-accessible documents or unfinished, in-process drafts that are easier to store as Docs/Sheets/etc.
+
 ## Code of Conduct
 
 As part of the IPFS project, this repo follows the [`IPFS Community Code of Conduct`](https://github.com/ipfs/community/blob/master/code-of-conduct.md).
