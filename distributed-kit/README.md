@@ -46,4 +46,4 @@ Our IPFS onboarding and documentation research provided enough insight into the 
 
 ### Related links
 * [ipfs/docs repo](https://github.com/ipfs/docs)
-* [IPFS Documentation Research Review](https://gateway.ipfs.io/ipns/ipfs-docs-research.robbrackett.com/html/). This has links to a review of all IPFS GitHub repos; an analysis of https://discuss.ipfs.io topics; notes from interviews; etc.
+* [IPFS Documentation Research Review](https://ipfs.io/ipfs/QmNj68gTzAs9QbfMKzMGurXP2WCmA6GTcKuUkWm4kBV1Qn/html/). This has links to a review of all IPFS GitHub repos; an analysis of https://discuss.ipfs.io topics; notes from interviews; etc.
