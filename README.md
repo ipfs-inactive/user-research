@@ -1,21 +1,16 @@
 # IPFS user research 
 
-The IPFS ecosystem of open-source projects has user research and other useful documentation on how people would like to interact with IPFS; where their painpoints are; what is going well for them; what is going less well for them; etc. However, that work is currently spread out across hundreds of repos, websites, and Google docs. This repo will serve as an index for IPFS user research, and will be where future user research work will be project managed (ie, you will be able to track issues and roadmaps similar to how you might track a code-based project). User research outputs (reports, presentations, etc) will also live here.
+The IPFS ecosystem of open-source projects has user research and other useful documentation on how people would like to interact with IPFS; where their painpoints are; what is going well for them; what is going less well for them; etc. However, that work is currently spread out across hundreds of repos, websites, and Google docs. This repo hopes to serve as an index for IPFS user research. User research outputs (reports, presentations, etc) will also live here.
 
-**NOTE: This repo needs to updated for 2019. For now, regard this as an archive of our research in mid-2018.**
+## Current endevour: pinning
 
-## Repo roadmap
+A growing challenge for IPFS is to define the product story for how users interact with and think about [pins](https://docs.ipfs.io/guides/concepts/pinning/) in IPFS. As the number of types of pins increases (for example, pinning [selectors](https://github.com/ipld/specs/blob/master/selectors/selectors.md)), and properties such as [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop/) and soon [ipfs-cluster](https://cluster.ipfs.io/) add new entry points for visualizing and managing pins, we need a holistic product story that will unify the communication and visualization of pinsets and their potential interactions in a way users understand.
 
-1. ~~We've got a README!~~
-1. ~~Create skeleton repo wiki to hold roadmaps, etc.~~
-1. ~~Add current understanding of problem statements~~
-1. ~Migrate existing user research (or links to research) here so this can serve as index for that work~
-1. Write next research plan based on all of the above **<-- U R HERE**
-1. Issues reflect ongoing and planned work
+📌Please follow along or contribute to this work via [issues tagged `pinning ux`](#). You can also spelunk in this repo's [`pinning-ux` directory](/pinning-ux).
 
-## Areas of focus
+## Research as of mid-2018
 
-In 2018, IPFS is gathering information and user needs in two areas:
+In 2018, IPFS gathered information and user needs in two areas:
 
 1. What is the simple but complete set of tools, templates, API features and documentation that allows web developers to build distributed applications on top of IPFS and libp2p?
 1. How might one store and transfer terabytes or petabytes of data using IPFS?
