@@ -1,1 +1,9 @@
-_initial commit_
+## Problem statement
+
+A growing challenge for IPFS is to define the product story for how users interact with and think about [pins](https://docs.ipfs.io/guides/concepts/pinning/) in IPFS. As the number of types of pins increases (for example, pinning [selectors](https://github.com/ipld/specs/blob/master/selectors/selectors.md)), and properties such as [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop/) and soon [ipfs-cluster](https://cluster.ipfs.io/) add new entry points for visualizing and managing pins, we need a holistic product story that will unify the communication and visualization of pinsets and their potential interactions in a way users understand. For example:
+
+- What are common user journeys for configuring and interacting with pins in IPFS?
+- How should we introduce and communicate different types of pins (direct vs indirect vs recursive) in IPFS across various types of interfaces?
+- What is the consistent set of abstractions and visual language for managing and configuring different pin types? 
+- How should people reason about their ipfs pinset and the human actions they want to take on that pinset?
+- How should various ipfs entry points - the [ipfs CLI](https://docs.ipfs.io/reference/api/cli/#ipfs-pin), [webUI](https://github.com/ipfs-shipyard/ipfs-webui/), [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion#ipfs-companion), [ipfs-cluster](https://cluster.ipfs.io/), 3rd party pinning services such as [Pinata](https://pinata.cloud/), [Infura](https://infura.io/), [Eternum](https://www.eternum.io/), etc - visualize and allow configuration of your pins?
