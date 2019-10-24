@@ -28,6 +28,8 @@ Research in each area lives in its own directory in this repo, respectively:
 
 🔒[Google drive](https://drive.google.com/drive/folders/1KbLl9TOV94Ud_jUP23e4ned1dtrLSsvp) for not-publicly-accessible documents or unfinished, in-process drafts that are easier to store as Docs/Sheets/etc.
 
+[IPFS UX-related links](https://github.com/ipfs/user-research/blob/master/ipfs-ux-related-items.md) in a list in this repo. PRs welcome if you know of more to add.
+
 ### Code of Conduct
 
 As part of the IPFS project, this repo follows the [`IPFS Community Code of Conduct`](https://github.com/ipfs/community/blob/master/code-of-conduct.md).
