@@ -1,9 +1,9 @@
-# 2019 Q4 endeavor: pinning ux
+### Oct/Nov 2019 endevour: pinning ux
 
 📌  
-📌Please follow along or contribute to this work via [issues tagged `[Area] Pinning UX`](https://github.com/ipfs/user-research/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5BArea%5D+Pinning+UX%22).  
+📌Read about or contribute to this work via [issues tagged `[Area] Pinning UX`](https://github.com/ipfs/user-research/issues?utf8=%E2%9C%93&q=label%3A%22%5BArea%5D+Pinning+UX%22+).  
 📌You can also spelunk in this repo's [`pinning-ux` directory](/pinning-ux).   
-📌  
+📌 
 
 ## Problem statement
 
