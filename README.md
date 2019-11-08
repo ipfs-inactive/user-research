@@ -2,12 +2,12 @@
 
 The IPFS ecosystem of open-source projects has user research and other useful documentation on how people would like to interact with IPFS; where their painpoints are; what is going well for them; what is going less well for them; etc. However, that work is currently spread out across hundreds of repos, websites, and Google docs. This repo hopes to serve as an index for IPFS user research. User research outputs (reports, presentations, etc) will also live here.
 
-### Current endevour: pinning ux
+### Oct/Nov 2019 endevour: pinning ux
 
 A growing challenge for IPFS is to define the product story for how users interact with and think about [pins](https://docs.ipfs.io/guides/concepts/pinning/) in IPFS. As the number of types of pins increases (for example, pinning [selectors](https://github.com/ipld/specs/blob/master/selectors/selectors.md)), and properties such as [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop/) and soon [ipfs-cluster](https://cluster.ipfs.io/) add new entry points for visualizing and managing pins, we need a holistic product story that will unify the communication and visualization of pinsets and their potential interactions in a way users understand.
 
 📌  
-📌Please follow along or contribute to this work via [issues tagged `[Area] Pinning UX`](https://github.com/ipfs/user-research/issues?q=is%3Aissue+is%3Aopen+label%3A%22%5BArea%5D+Pinning+UX%22).  
+📌Read about or contribute to this work via [issues tagged `[Area] Pinning UX`](https://github.com/ipfs/user-research/issues?utf8=%E2%9C%93&q=label%3A%22%5BArea%5D+Pinning+UX%22+).  
 📌You can also spelunk in this repo's [`pinning-ux` directory](/pinning-ux).   
 📌    
 
